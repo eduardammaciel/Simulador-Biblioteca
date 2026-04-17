@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1776455963 source:c:\users\usuario\downloads\eduarda maciel\algoritmos2\estruturas\biblioteca ana maria\main.cpp
+	"menu.h"
+
+1776457797 c:\users\usuario\downloads\eduarda maciel\algoritmos2\estruturas\biblioteca ana maria\menu.h
+	<iostream>
+	<string>
+	"emprestimo.h"
+
+1776454996 c:\users\usuario\downloads\eduarda maciel\algoritmos2\estruturas\biblioteca ana maria\emprestimo.h
+	<iostream>
+	<string>
+	"aluno.h"
+	"professor.h"
+	"livro.h"
+
+1776456569 c:\users\usuario\downloads\eduarda maciel\algoritmos2\estruturas\biblioteca ana maria\aluno.h
+	"usuario.h"
+
+1776456249 c:\users\usuario\downloads\eduarda maciel\algoritmos2\estruturas\biblioteca ana maria\usuario.h
+	<iostream>
+	<string>
+
+1776454932 c:\users\usuario\downloads\eduarda maciel\algoritmos2\estruturas\biblioteca ana maria\professor.h
+	"usuario.h"
+
+1776454893 c:\users\usuario\downloads\eduarda maciel\algoritmos2\estruturas\biblioteca ana maria\livro.h
+	<iostream>
+	<string>
+
